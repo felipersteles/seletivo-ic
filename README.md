@@ -1,6 +1,6 @@
 # Teste processo seletivo IntutiveCare
 
-Teste processo seletivo IntutiveCare
+Teste processo seletivo IntutiveCare. Realizados por [Felipe Teles](https://github.com/felipersteles). E consistem basicamente na realização dos itens abaixo:
 
 ## Teste 1
 
